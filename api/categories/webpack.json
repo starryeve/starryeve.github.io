@@ -1,1 +1,57 @@
-{"name":"webpack","slug":"webpack","count":1,"postlist":[{"title":"webpack5搭建vue3环境","uid":"4671e4a4ddc838dd69dd6aa254700d36","slug":"webpack5搭建vue3环境","date":"2021-08-07T08:52:54.000Z","updated":"2022-01-18T17:14:39.325Z","comments":true,"path":"api/articles/webpack5搭建vue3环境.json","keywords":null,"cover":"https://gitee.com/zeng-fanhao/figure-bed/raw/master/images/202201190114249.jpg","text":"使用webpack5搭建vue3环境前言平时项目开发，从稳定性和易用性的角度，一般很少从头到尾搭建环境，大多数是采用以下的方法： 用官方脚手架vue-cli快速搭建项目 在别人搭建好的项目基础上开发 虽然能快速上手，但不利用项目把控能力的培养。无论是从面试的角度还是从问题排查的角...","link":"","photos":[],"count_time":{"symbolsCount":"15k","symbolsTime":"14 mins."},"categories":[{"name":"webpack","slug":"webpack","count":1,"path":"api/categories/webpack.json"}],"tags":[{"name":"webpack web前端","slug":"webpack-web前端","count":1,"path":"api/tags/webpack-web前端.json"}],"author":{"name":"EVE","slug":"blog-author","avatar":"https://gitee.com/zeng-fanhao/figure-bed/raw/master/images/202201171207395.png","link":"/","description":"keep calm, own minds </br>  put thoughts forward","socials":{"github":"https://github.com/starryeve","twitter":"","stackoverflow":"","wechat":"","qq":"","weibo":"","zhihu":"","csdn":"","juejin":"https://juejin.cn/user/562570281888488","customs":{}}}}]}
+{
+	"name": "webpack",
+	"slug": "webpack",
+	"count": 1,
+	"postlist": [
+		{
+			"title": "webpack5搭建vue3环境",
+			"uid": "4671e4a4ddc838dd69dd6aa254700d36",
+			"slug": "webpack5搭建vue3环境",
+			"date": "2021-08-07T08:52:54.000Z",
+			"updated": "2022-01-18T17:14:39.325Z",
+			"comments": true,
+			"path": "api/articles/webpack5搭建vue3环境.json",
+			"keywords": null,
+			"cover": "https://raw.githubusercontent.com/starryeve/figure-bed/master/images/202201190114249.jpg",
+			"text": "使用webpack5搭建vue3环境前言平时项目开发，从稳定性和易用性的角度，一般很少从头到尾搭建环境，大多数是采用以下的方法： 用官方脚手架vue-cli快速搭建项目 在别人搭建好的项目基础上开发 虽然能快速上手，但不利用项目把控能力的培养。无论是从面试的角度还是从问题排查的角...",
+			"link": "",
+			"photos": [],
+			"count_time": { "symbolsCount": "15k", "symbolsTime": "14 mins." },
+			"categories": [
+				{
+					"name": "webpack",
+					"slug": "webpack",
+					"count": 1,
+					"path": "api/categories/webpack.json"
+				}
+			],
+			"tags": [
+				{
+					"name": "webpack web前端",
+					"slug": "webpack-web前端",
+					"count": 1,
+					"path": "api/tags/webpack-web前端.json"
+				}
+			],
+			"author": {
+				"name": "EVE",
+				"slug": "blog-author",
+				"avatar": "https://raw.githubusercontent.com/starryeve/figure-bed/master/images/202201171207395.png",
+				"link": "/",
+				"description": "keep calm, own minds </br>  put thoughts forward",
+				"socials": {
+					"github": "https://github.com/starryeve",
+					"twitter": "",
+					"stackoverflow": "",
+					"wechat": "",
+					"qq": "",
+					"weibo": "",
+					"zhihu": "",
+					"csdn": "",
+					"juejin": "https://juejin.cn/user/562570281888488",
+					"customs": {}
+				}
+			}
+		}
+	]
+}
